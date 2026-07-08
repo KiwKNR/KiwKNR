@@ -56,10 +56,10 @@ me = KiwKNR()
 
 | Field | Detail |
 |:--|:--|
-| **Rank** | 1st Runner-up |
+| **Rank** | 1st Runner-up &middot; รองชนะเลิศอันดับ 1 |
 | **Category** | CYBER WARRIOR &mdash; ระดับกำลังพลกองทัพเรือ (Naval Personnel Level) |
 | **Event** | NAVY CYBER FAIR 2026 &mdash; "Ready to Defend, Ready to Dominate" |
-| **Format** | การแข่งขันปฏิบัติการทักษะทางด้านไซเบอร์ |
+| **Format** | การแข่งขันปฏิบัติการทางด้านไซเบอร์ (แบบทีม) |
 | **Host** | กรมการสื่อสารและเทคโนโลยีสารสนเทศทหารเรือ |
 
 ---
@@ -126,7 +126,8 @@ me = KiwKNR()
 
 | Category | Specialties |
 |:--------:|:-----------|
-| **Web** | SQLi · XSS · SSRF · IDOR · Auth Bypass · File Upload |
+| **Web** | SQLi · XSS · SSRF · IDOR · Auth Bypass · File Upload · SSTI · Deserialization |
+| **API** | REST/GraphQL Testing · BOLA/IDOR · Broken Auth · Mass Assignment · JWT Attacks |
 | **Network** | Recon · Pivoting · MITM · Lateral Movement |
 | **AD** | Kerberoasting · Pass-the-Hash · BloodHound · Mimikatz |
 | **Recon** | OSINT · Subdomain Enum · Fuzzing · Port Scanning |
