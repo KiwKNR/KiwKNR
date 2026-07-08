@@ -56,10 +56,10 @@ me = KiwKNR()
 
 | Field | Detail |
 |:--|:--|
-| **Rank** | 1st Runner-up &middot; รองชนะเลิศอันดับ 1 |
+| **Rank** | 1st Runner-up |
 | **Category** | CYBER WARRIOR &mdash; ระดับกำลังพลกองทัพเรือ (Naval Personnel Level) |
 | **Event** | NAVY CYBER FAIR 2026 &mdash; "Ready to Defend, Ready to Dominate" |
-| **Format** | การแข่งขันปฏิบัติการทางด้านไซเบอร์ (แบบทีม) |
+| **Format** | การแข่งขันทักษะปฏิบัติการทางด้านไซเบอร์ |
 | **Host** | กรมการสื่อสารและเทคโนโลยีสารสนเทศทหารเรือ |
 
 ---
