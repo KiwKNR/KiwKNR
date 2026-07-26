@@ -155,6 +155,18 @@ me = KiwKNR()
 
 <div align="center">
 
+### ELEC CTF Arena  &middot;  Live Training Platform
+
+CTF arena I built for the Royal Thai Navy Electronics Department, where I run the
+cyber-warfare training as an instructor. Server-side flag checks (SHA-256),
+live scoreboard, daily labs. In production.
+
+[![Live Demo](https://img.shields.io/badge/%E2%96%B6%20LIVE-elec--ctf--arena-FF0000?style=for-the-badge&labelColor=000000)](https://elec-ctf-arena.vercel.app)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+<br/>
+
 [![Pentest Vault](https://github-readme-stats.vercel.app/api/pin/?username=KiwKNR&repo=Pentest-Vault&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&border_color=8B0000)](https://github.com/KiwKNR/Pentest-Vault)
 [![CTF Vault](https://github-readme-stats.vercel.app/api/pin/?username=KiwKNR&repo=CTF-Vault&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&border_color=8B0000)](https://github.com/KiwKNR/CTF-Vault)
 
