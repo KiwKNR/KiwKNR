@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/Role-Red%20Team-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 <img src="https://img.shields.io/badge/Focus-Offensive%20Security-black?style=for-the-badge&logo=kalilinux&logoColor=00FF00"/>
 <img src="https://img.shields.io/badge/Status-Always%20Hacking-success?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+<img src="https://img.shields.io/badge/Currently-Red%20Team%20%40%20BMSP-8B0000?style=for-the-badge&labelColor=000000"/>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=KiwKNR&label=Profile%20Views&color=ff0000&style=for-the-badge" alt="Profile views"/>
@@ -28,14 +29,12 @@
 class KiwKNR:
     def __init__(self):
         self.role = "Red Teamer / Penetration Tester"
+        self.company = "BMSP"
         self.location = "127.0.0.1"
         self.focus = ["Web Exploitation", "Network Pentesting",
                       "Active Directory", "Privilege Escalation"]
         self.ctf_player = True
         self.current_goal = "Catch all the flags"
-
-    def motto(self):
-        return "Think like an attacker, defend like a guardian."
 
 me = KiwKNR()
 ```
@@ -170,10 +169,6 @@ me = KiwKNR()
 ---
 
 <div align="center">
-
-```bash
-$ echo "Stay curious. Stay ethical. Keep hacking."
-```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=120&section=footer" width="100%"/>
 
