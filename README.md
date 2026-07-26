@@ -75,9 +75,9 @@ me = KiwKNR()
 
 </div>
 
-> Independent source-code auditing of open-source web applications — every finding is
-> confirmed with a working **proof-of-concept** before disclosure, then patched together
-> with maintainers through **GitHub Security Advisories**.
+> I dig through source code of open-source web apps and break them.
+> Every bug gets a working **PoC** before I report it.
+> Then I work the fix with the maintainer through **GHSA**.
 
 <div align="center">
 
@@ -90,7 +90,7 @@ me = KiwKNR()
 | `01` | Unauthenticated Path Traversal | `CWE-22` | ![HIGH](https://img.shields.io/badge/HIGH-FF8C00?style=flat-square&labelColor=000000) | Advisory submitted &middot; CVE pending |
 | `02` | Unauthenticated File Upload &rarr; RCE | `CWE-434` | ![CRITICAL](https://img.shields.io/badge/CRITICAL-FF0000?style=flat-square&labelColor=000000) | Reported &middot; coordinating fix |
 
-<sub>Target names withheld until patched &middot; CVE identifiers published here once assigned</sub>
+<sub>Repo names stay private until patched. CVE IDs land here once assigned.</sub>
 
 </div>
 
