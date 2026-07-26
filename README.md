@@ -151,6 +151,17 @@ me = KiwKNR()
 
 ---
 
+## `> git log --featured`
+
+<div align="center">
+
+[![Pentest Vault](https://github-readme-stats.vercel.app/api/pin/?username=KiwKNR&repo=Pentest-Vault&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&border_color=8B0000)](https://github.com/KiwKNR/Pentest-Vault)
+[![CTF Vault](https://github-readme-stats.vercel.app/api/pin/?username=KiwKNR&repo=CTF-Vault&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&border_color=8B0000)](https://github.com/KiwKNR/CTF-Vault)
+
+</div>
+
+---
+
 ## `> cat skills.txt`
 
 <div align="center">
