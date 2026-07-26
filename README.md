@@ -161,6 +161,18 @@ me = KiwKNR()
 
 <div align="center">
 
+### SENTINEL-7 CyberRange  &middot;  Red vs Blue Cyber Range
+
+Full cyber range I built with team SENTINEL-7 for Royal Thai Navy training.
+Each operator gets an isolated Docker container, 500+ attack tools, deploy under 5s.
+Red Team and Blue Team missions with a live leaderboard.
+
+[![Live Demo](https://img.shields.io/badge/%E2%96%B6%20LIVE-redopsdb.com-FF0000?style=for-the-badge&labelColor=000000)](https://www.redopsdb.com)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Red%20Team](https://img.shields.io/badge/Red%20%2F%20Blue%20Team-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=000000)
+
+<br/>
+
 ### ELEC CTF Arena  &middot;  Live Training Platform
 
 CTF arena I built for the Royal Thai Navy Electronics Department, where I run the
