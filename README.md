@@ -106,7 +106,10 @@ me = KiwKNR()
 <img src="https://img.shields.io/badge/kWAPTA-Web%20App%20Pentest%20Apprentice-EC008C?style=for-the-badge&logo=owasp&logoColor=white&labelColor=000000"/>
 <img src="https://img.shields.io/badge/kAPIPTA-API%20Pentest%20Apprentice-EC008C?style=for-the-badge&logo=postman&logoColor=white&labelColor=000000"/>
 <img src="https://img.shields.io/badge/NCSA-Cybersecurity%20Professional-1793D1?style=for-the-badge&logo=securityscorecard&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/NCSA-Penetration%20Testing-2E8B57?style=for-the-badge&logo=securityscorecard&logoColor=white&labelColor=000000"/>
 <img src="https://img.shields.io/badge/NCSA-Cybersecurity%20Foundation-4682B4?style=for-the-badge&logo=securityscorecard&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/FutureSkill-Ethical%20Hacking%20%26%20Pentest-7C3AED?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/FutureSkill-Cybersecurity%20Fundamentals-9370DB?style=for-the-badge&logo=coursera&logoColor=white&labelColor=000000"/>
 
 </div>
 
@@ -118,8 +121,11 @@ me = KiwKNR()
 | **API-RTA** &mdash; Certified API Red Team Analyst | CyberWarfare Labs | API red teaming |
 | **kWAPTA** &mdash; Web App Penetration Testing Apprentice | Knight Squad Academy | Web app recon & exploitation |
 | **kAPIPTA** &mdash; API Penetration Testing Apprentice | Knight Squad Academy | API recon, testing & exploitation |
+| **Penetration Testing Specialist** | NCSA · สกมช. | Penetration Test course (28 hrs, e-Learning) |
 | **Cybersecurity Professional** (Advanced) | NCSA · สกมช. | Cybersecurity Professional Course |
 | **Cybersecurity Foundation** | NCSA · สกมช. | Cybersecurity Foundation Course |
+| **Ethical Hacking & Penetration Testing** | FutureSkill | Hands-on vulnerability discovery and exploitation |
+| **Cybersecurity Fundamentals** | FutureSkill | Core cybersecurity for system and data protection |
 
 ---
 
