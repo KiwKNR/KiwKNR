@@ -88,6 +88,7 @@ me = KiwKNR()
 |:-:|:--|:-:|:-:|:--|
 | `01` | Unauthenticated Path Traversal | `CWE-22` | ![HIGH](https://img.shields.io/badge/HIGH-FF8C00?style=flat-square&labelColor=000000) | Advisory submitted &middot; CVE pending |
 | `02` | Unauthenticated File Upload &rarr; RCE | `CWE-434` | ![CRITICAL](https://img.shields.io/badge/CRITICAL-FF0000?style=flat-square&labelColor=000000) | Reported &middot; coordinating fix |
+| `03` | Path Traversal &rarr; Arbitrary File Write &rarr; RCE | `CWE-22` | ![HIGH](https://img.shields.io/badge/HIGH-FF8C00?style=flat-square&labelColor=000000) | Reported &middot; coordinating fix |
 
 <sub>Repo names stay private until patched. CVE IDs land here once assigned.</sub>
 
