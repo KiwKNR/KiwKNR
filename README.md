@@ -100,6 +100,7 @@ me = KiwKNR()
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/CRTeamer-Certified%20Red%20Teamer-B22222?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=000000"/>
 <img src="https://img.shields.io/badge/CNPen-Certified%20Network%20Pentester-FF6633?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=000000"/>
 <img src="https://img.shields.io/badge/CRTA-Certified%20Red%20Team%20Analyst-FF0000?style=for-the-badge&logo=hackaday&logoColor=white&labelColor=000000"/>
 <img src="https://img.shields.io/badge/WEB--RTA-Web%20Red%20Team%20Analyst-FF0000?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=000000"/>
@@ -116,6 +117,7 @@ me = KiwKNR()
 
 | Certification | Issuer | Highlight |
 |:--|:--|:--|
+| **CRTeamer** &mdash; Certified Red Teamer | The SecOps Group · PentestingExams | Passed **with Merit** (exam v1.01) |
 | **CNPen** &mdash; Certified Network Pentester | The SecOps Group · PentestingExams | Passed **with Merit** |
 | **CRTA** &mdash; Certified Red Team Analyst | CyberWarfare Labs | Red team operations |
 | **WEB-RTA** &mdash; Certified Web Red Team Analyst | CyberWarfare Labs | Web application red teaming |
