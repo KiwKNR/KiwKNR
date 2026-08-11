@@ -110,6 +110,7 @@ me = KiwKNR()
 <img src="https://img.shields.io/badge/NCSA-Cybersecurity%20Professional-1793D1?style=for-the-badge&logo=securityscorecard&logoColor=white&labelColor=000000"/>
 <img src="https://img.shields.io/badge/NCSA-Penetration%20Testing-2E8B57?style=for-the-badge&logo=securityscorecard&logoColor=white&labelColor=000000"/>
 <img src="https://img.shields.io/badge/NCSA-Cybersecurity%20Foundation-4682B4?style=for-the-badge&logo=securityscorecard&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/NCSA-Cloud%20Security%20Practitioner-00AEEF?style=for-the-badge&logo=securityscorecard&logoColor=white&labelColor=000000"/>
 <img src="https://img.shields.io/badge/FutureSkill-Ethical%20Hacking%20%26%20Pentest-7C3AED?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=000000"/>
 <img src="https://img.shields.io/badge/FutureSkill-Cybersecurity%20Fundamentals-9370DB?style=for-the-badge&logo=coursera&logoColor=white&labelColor=000000"/>
 
@@ -127,6 +128,7 @@ me = KiwKNR()
 | **Penetration Testing Specialist** | NCSA · สกมช. | Penetration Test course (28 hrs, e-Learning) |
 | **Cybersecurity Professional** (Advanced) | NCSA · สกมช. | Cybersecurity Professional Course |
 | **Cybersecurity Foundation** | NCSA · สกมช. | Cybersecurity Foundation Course |
+| **Cloud Security Standard for Practitioner** (TCSAP) | NCSA · สกมช. | Cloud security standard (11 hrs, e-Learning) |
 | **Ethical Hacking & Penetration Testing** | FutureSkill | Hands-on vulnerability discovery and exploitation |
 | **Cybersecurity Fundamentals** | FutureSkill | Core cybersecurity for system and data protection |
 
