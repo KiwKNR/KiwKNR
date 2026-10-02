@@ -71,6 +71,7 @@ me = KiwKNR()
 <img src="https://img.shields.io/badge/Coordinated%20via-GHSA-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
 <img src="https://img.shields.io/badge/Proof--of--Concept-Verified-8B0000?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=000000"/>
 <img src="https://img.shields.io/badge/CVE-2026--103978-FF0000?style=for-the-badge&logo=commonworkflowlanguage&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/CVE-2026--104826-FF0000?style=for-the-badge&logo=commonworkflowlanguage&logoColor=white&labelColor=000000"/>
 
 </div>
 
@@ -88,7 +89,7 @@ me = KiwKNR()
 |:-:|:--|:-:|:-:|:--|
 | `01` | Unauthenticated Path Traversal | `CWE-22` | ![HIGH](https://img.shields.io/badge/HIGH-FF8C00?style=flat-square&labelColor=000000) | **CVE-2026-103978** assigned &middot; GHSA advisory |
 | `02` | Unauthenticated File Upload &rarr; RCE | `CWE-434` | ![CRITICAL](https://img.shields.io/badge/CRITICAL-FF0000?style=flat-square&labelColor=000000) | Reported &middot; coordinating fix |
-| `03` | Path Traversal &rarr; Arbitrary File Write &rarr; RCE | `CWE-22` | ![HIGH](https://img.shields.io/badge/HIGH-FF8C00?style=flat-square&labelColor=000000) | Reported &middot; coordinating fix |
+| `03` | Path Traversal (chunked upload) &rarr; Arbitrary File Write &rarr; RCE | `CWE-22` | ![HIGH](https://img.shields.io/badge/HIGH-FF8C00?style=flat-square&labelColor=000000) | **CVE-2026-104826** assigned &middot; GHSA advisory |
 
 <sub>Repo names stay private until patched. CVE IDs land here once assigned.</sub>
 
