@@ -55,7 +55,8 @@ Repo names stay private until a patch ships. CVE numbers go here once they're as
 
 **Navy Cyber Fair 2026** ("Ready to Defend, Ready to Dominate") - 1st runner-up in the
 Cyber Warrior track (naval personnel level), team CTF. Hands-on cyber operations
-contest hosted by the Royal Thai Navy Directorate of Communications and IT.
+contest hosted by the Royal Thai Navy Directorate of Communications and IT. Writeups for the
+challenges I solved are in [NAVY-CYBER-FAIR-2026-Writeups](https://github.com/KiwKNR/NAVY-CYBER-FAIR-2026-Writeups).
 
 ## Stuff I've built
 
