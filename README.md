@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.svg" alt="axiom0x // offensive security" width="840"/>
+
 <h1>Kanarat Kaeothong &nbsp;·&nbsp; <code>Axiom0x</code></h1>
 
 <a href="https://github.com/KiwKNR">
@@ -11,6 +13,7 @@
 <a href="https://github.com/KiwKNR/CVE-2026-104826"><img src="https://img.shields.io/badge/CVE--2026--104826-upload%20RCE-critical?style=flat-square" alt="CVE-2026-104826"/></a>
 <img src="https://img.shields.io/badge/daily%20driver-Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali"/>
 <img src="https://img.shields.io/badge/Navy%20Cyber%20Fair%202026-1st%20runner--up-FFD700?style=flat-square&labelColor=1a1a1a" alt="Navy Cyber Fair 2026"/>
+<img src="https://img.shields.io/badge/CVEs%20assigned-2-8957e5?style=flat-square" alt="CVEs assigned"/>
 <img src="https://komarev.com/ghpvc/?username=KiwKNR&style=flat-square&color=34d058&label=profile+views" alt="profile views"/>
 </p>
 
@@ -102,4 +105,11 @@ BloodHound). Then privesc and post-ex once I'm in.
 ![stats](https://github-readme-stats.vercel.app/api?username=KiwKNR&show_icons=true&theme=dark&hide_border=true&count_private=true)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiwKNR&layout=compact&theme=dark&hide_border=true)
 
-Security contact: open a private vulnerability report on the relevant repo.
+## Security contact
+
+Open a private vulnerability report on the relevant repo, or encrypt to my PGP key
+([`pgp.asc`](pgp.asc)):
+
+```
+3703 5DDA 7B71 F8CC B1DB  5F2B 3B8F 3468 4648 460A
+```

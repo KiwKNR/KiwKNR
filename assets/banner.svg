@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="220" viewBox="0 0 840 220" font-family="'Fira Code','JetBrains Mono',ui-monospace,Menlo,Consolas,monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#010409"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="838" height="218" rx="10" fill="url(#bg)" stroke="#1f6feb" stroke-opacity="0.35"/>
+  <rect x="1" y="1" width="838" height="34" rx="10" fill="#161b22"/>
+  <rect x="1" y="24" width="838" height="11" fill="#161b22"/>
+  <circle cx="22" cy="18" r="5.5" fill="#ff5f56"/>
+  <circle cx="42" cy="18" r="5.5" fill="#ffbd2e"/>
+  <circle cx="62" cy="18" r="5.5" fill="#27c93f"/>
+  <text x="420" y="22" fill="#8b949e" font-size="12.5" text-anchor="middle">axiom0x@kali: ~/offsec</text>
+  <text x="26" y="78" font-size="15.5"><tspan fill="#27c93f">axiom0x@kali</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#c9d1d9">$ whoami</tspan></text>
+  <text x="26" y="104" font-size="15.5" fill="#e6edf3">Kanarat "Axiom0x" Kaeothong  ·  offensive security researcher</text>
+  <text x="26" y="140" font-size="15.5"><tspan fill="#27c93f">axiom0x@kali</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#c9d1d9">$ cat focus.txt</tspan></text>
+  <text x="26" y="166" font-size="15.5" fill="#e6edf3">web exploitation  ·  network pentest  ·  active directory  ·  reverse engineering</text>
+  <text x="26" y="202" font-size="15.5"><tspan fill="#27c93f">axiom0x@kali</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#c9d1d9">$ </tspan><tspan fill="#c9d1d9" font-weight="bold">read source · find the bug · ship the PoC</tspan></text>
+  <rect x="505" y="190" width="9" height="16" fill="#27c93f"><animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/></rect>
+</svg>
