@@ -1,10 +1,20 @@
-# Kanarat Kaeothong
+<div align="center">
 
-`KiwKNR` / `Axiom0x` · offensive security & pentesting, Thailand
+<h1>Kanarat Kaeothong &nbsp;·&nbsp; <code>Axiom0x</code></h1>
 
-[![CVE-2026-103978](https://img.shields.io/badge/CVE--2026--103978-path%20traversal-critical?style=flat-square)](https://github.com/KiwKNR/CVE-2026-103978)
-[![CVE-2026-104826](https://img.shields.io/badge/CVE--2026--104826-upload%20RCE-critical?style=flat-square)](https://github.com/KiwKNR/CVE-2026-104826)
-![Kali](https://img.shields.io/badge/daily%20driver-Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+<a href="https://github.com/KiwKNR">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=34D058&center=true&vCenter=true&width=660&height=42&lines=offensive+security+%2F+pentest%2C+Thailand;i+break+web+apps+and+networks;read+the+source%2C+find+the+bug%2C+write+the+PoC;red+teamer+%40+BMSP+%E2%80%A2+CTF+trainer" alt="what i do"/>
+</a>
+
+<p>
+<a href="https://github.com/KiwKNR/CVE-2026-103978"><img src="https://img.shields.io/badge/CVE--2026--103978-path%20traversal-critical?style=flat-square" alt="CVE-2026-103978"/></a>
+<a href="https://github.com/KiwKNR/CVE-2026-104826"><img src="https://img.shields.io/badge/CVE--2026--104826-upload%20RCE-critical?style=flat-square" alt="CVE-2026-104826"/></a>
+<img src="https://img.shields.io/badge/daily%20driver-Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali"/>
+<img src="https://img.shields.io/badge/Navy%20Cyber%20Fair%202026-1st%20runner--up-FFD700?style=flat-square&labelColor=1a1a1a" alt="Navy Cyber Fair 2026"/>
+<img src="https://komarev.com/ghpvc/?username=KiwKNR&style=flat-square&color=34d058&label=profile+views" alt="profile views"/>
+</p>
+
+</div>
 
 I break web apps and networks, audit source code for bugs, and run a small CTF team.
 Currently doing red team work at BMSP and teaching cyber-warfare labs for the Royal
@@ -13,10 +23,11 @@ Thai Navy on the side.
 Day to day I'm in Burp, reading PHP/Python source looking for the thing a dev assumed
 no one would ever send, then writing it up with a PoC that actually runs.
 
-```
-role      red teamer / penetration tester
-focus     web exploitation, network pentest, AD, privesc
-ctf       web / pwn / rev / crypto, player + trainer
+```console
+axiom0x@kali:~$ whoami
+role   red teamer / penetration tester
+focus  web exploitation, network pentest, AD, privesc
+ctf    web / pwn / rev / crypto, player + trainer
 ```
 
 ## Disclosures
