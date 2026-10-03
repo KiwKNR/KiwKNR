@@ -51,7 +51,11 @@ Repo names stay private until a patch ships. CVE numbers go here once they're as
 | Ethical Hacking & Penetration Testing | FutureSkill | |
 | Cybersecurity Fundamentals | FutureSkill | |
 
-Also took 1st runner-up in the Cyber Warrior (naval personnel) team CTF at Navy Cyber Fair 2026.
+## Competitions
+
+**Navy Cyber Fair 2026** ("Ready to Defend, Ready to Dominate") - 1st runner-up in the
+Cyber Warrior track (naval personnel level), team CTF. Hands-on cyber operations
+contest hosted by the Royal Thai Navy Directorate of Communications and IT.
 
 ## Stuff I've built
 
