@@ -105,6 +105,11 @@ BloodHound). Then privesc and post-ex once I'm in.
 ![stats](https://github-readme-stats.vercel.app/api?username=KiwKNR&show_icons=true&theme=dark&hide_border=true&count_private=true)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiwKNR&layout=compact&theme=dark&hide_border=true)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KiwKNR/KiwKNR/output/github-snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/KiwKNR/KiwKNR/output/github-snake-dark.svg">
+</picture>
+
 ## Security contact
 
 Open a private vulnerability report on the relevant repo, or encrypt to my PGP key
