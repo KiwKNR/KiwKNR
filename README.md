@@ -1,47 +1,120 @@
-# Kanarat Kaeothong
+<div align="center">
 
-**Axiom0x** · Red Team at BMSP · Thailand
+<img src="assets/banner.svg" alt="axiom0x // offensive security" width="840"/>
 
-I test web apps, APIs and internal networks. Most of my time goes into tracing an odd response back to the code and writing findings a maintainer can verify and fix. I also teach hands-on security labs for the Royal Thai Navy.
+<h1>Kanarat Kaeothong &nbsp;·&nbsp; <code>Axiom0x</code></h1>
 
-## Projects
+<a href="https://github.com/KiwKNR">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=34D058&center=true&vCenter=true&width=660&height=42&lines=offensive+security+%2F+pentest%2C+Thailand;i+break+web+apps+and+networks;read+the+source%2C+find+the+bug%2C+write+the+PoC;red+teamer+%40+BMSP+%E2%80%A2+CTF+trainer" alt="what i do"/>
+</a>
 
-### [SENTINEL-7 Knowledge](https://ctf-sen7.dev/)
+<p>
+<a href="https://github.com/KiwKNR/CVE-2026-103978"><img src="https://img.shields.io/badge/CVE--2026--103978-path%20traversal-critical?style=flat-square" alt="CVE-2026-103978"/></a>
+<a href="https://github.com/KiwKNR/CVE-2026-104826"><img src="https://img.shields.io/badge/CVE--2026--104826-upload%20RCE-critical?style=flat-square" alt="CVE-2026-104826"/></a>
+<img src="https://img.shields.io/badge/daily%20driver-Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali"/>
+<img src="https://img.shields.io/badge/Navy%20Cyber%20Fair%202026-1st%20runner--up-FFD700?style=flat-square&labelColor=1a1a1a" alt="Navy Cyber Fair 2026"/>
+<img src="https://img.shields.io/badge/CVEs%20assigned-2-8957e5?style=flat-square" alt="CVEs assigned"/>
+<img src="https://komarev.com/ghpvc/?username=KiwKNR&style=flat-square&color=34d058&label=profile+views" alt="profile views"/>
+</p>
 
-A Thai-language reference I maintain for CTF and security testing. It brings together 256 lessons, a graph that links related topics, and tools for working through evidence. The archive requires sign-in.
+</div>
 
-### [ELEC CTF Arena](https://elec-ctf-arena.vercel.app/)
+I break web apps and networks, audit source code for bugs, and run a small CTF team.
+Currently doing red team work at BMSP and teaching cyber-warfare labs for the Royal
+Thai Navy on the side.
 
-A CTF platform for the Navy Electronics Department. Students work through labs, submit flags and see their progress on a live scoreboard.
+Day to day I'm in Burp, reading PHP/Python source looking for the thing a dev assumed
+no one would ever send, then writing it up with a PoC that actually runs.
 
-### SENTINEL-7 CyberRange
+```console
+axiom0x@kali:~$ whoami
+role   red teamer / penetration tester
+focus  web exploitation, network pentest, AD, privesc
+ctf    web / pwn / rev / crypto, player + trainer
+```
 
-I built this range with the SENTINEL-7 team for Navy training. The range was designed around isolated operator labs and a shared mission scoreboard.
+## Disclosures
 
-### [CTF-Vault](https://github.com/KiwKNR/CTF-Vault) and [Pentest-Vault](https://github.com/KiwKNR/Pentest-Vault)
+I audit open-source web apps on my own time. Rule I keep: no report goes out without
+a working PoC first, and the fix gets coordinated with the maintainer through a GitHub
+Security Advisory before anything is public.
 
-My public notes. CTF-Vault is organized by challenge topic. Pentest-Vault covers assessment methods, tools and reporting.
+| CWE | Class | Severity | Status |
+|:--|:--|:-:|:--|
+| CWE-22 | Unauthenticated path traversal | High | [CVE-2026-103978](https://github.com/KiwKNR/CVE-2026-103978), GHSA advisory |
+| CWE-434 | Unauthenticated file upload to RCE | Critical | reported, fix in progress |
+| CWE-22 | Path traversal in chunked upload, file write to RCE | High | [CVE-2026-104826](https://github.com/KiwKNR/CVE-2026-104826), GHSA advisory |
 
-## Competition
-
-**Navy Cyber Fair 2026** · First runner-up in the Cyber Warrior team track for naval personnel.
+Repo names stay private until a patch ships. CVE numbers go here once they're assigned.
 
 ## Certifications
 
-- **The SecOps Group** · Certified Red Teamer and Certified Network Pentester, both with Merit.
-- **CyberWarfare Labs** · Certified Red Team Analyst, Web Red Team Analyst and API Red Team Analyst.
+| Cert | Issuer | Note |
+|:--|:--|:--|
+| CRTeamer, Certified Red Teamer | The SecOps Group | passed with Merit (v1.01) |
+| CNPen, Certified Network Pentester | The SecOps Group | passed with Merit |
+| CRTA, Certified Red Team Analyst | CyberWarfare Labs | |
+| WEB-RTA, Web Red Team Analyst | CyberWarfare Labs | |
+| API-RTA, API Red Team Analyst | CyberWarfare Labs | |
+| kWAPTA, Web App Pentest Apprentice | Knight Squad Academy | |
+| kAPIPTA, API Pentest Apprentice | Knight Squad Academy | |
+| Penetration Testing Specialist | NCSA (สกมช.) | 28 hrs |
+| Cybersecurity Professional (Advanced) | NCSA (สกมช.) | |
+| Cybersecurity Foundation | NCSA (สกมช.) | |
+| Cloud Security Standard for Practitioner (TCSAP) | NCSA (สกมช.) | 11 hrs |
+| Ethical Hacking & Penetration Testing | FutureSkill | |
+| Cybersecurity Fundamentals | FutureSkill | |
 
-<details>
-<summary>Other training</summary>
+## Competitions
 
-- **Knight Squad Academy** · Web App Pentest Apprentice and API Pentest Apprentice.
-- **NCSA Thailand** · Penetration Testing Specialist, Cybersecurity Professional (Advanced), Cybersecurity Foundation, and Cloud Security Standard for Practitioner.
-- **FutureSkill** · Ethical Hacking & Penetration Testing and Cybersecurity Fundamentals.
+**Navy Cyber Fair 2026** ("Ready to Defend, Ready to Dominate") - 1st runner-up in the
+Cyber Warrior track (naval personnel level), team CTF. Hands-on cyber operations
+contest hosted by the Royal Thai Navy Directorate of Communications and IT. Writeups for the
+challenges I solved are in [NAVY-CYBER-FAIR-2026-Writeups](https://github.com/KiwKNR/NAVY-CYBER-FAIR-2026-Writeups).
 
-</details>
+## Stuff I've built
+
+**SENTINEL-7 CyberRange** - red vs blue range I put together with the SENTINEL-7 team
+for Navy training. Each operator gets an isolated Docker container with a loaded
+toolset, spins up in a few seconds, live scoreboard for the missions. Live at
+[redopsdb.com](https://www.redopsdb.com).
+
+**ELEC CTF Arena** - CTF platform I run for the Navy Electronics Department where I
+teach. Server-side flag checking (SHA-256), live board, new labs daily. In production
+at [elec-ctf-arena.vercel.app](https://elec-ctf-arena.vercel.app).
+
+[![Pentest Vault](https://github-readme-stats.vercel.app/api/pin/?username=KiwKNR&repo=Pentest-Vault&theme=dark&hide_border=true)](https://github.com/KiwKNR/Pentest-Vault)
+[![CTF Vault](https://github-readme-stats.vercel.app/api/pin/?username=KiwKNR&repo=CTF-Vault&theme=dark&hide_border=true)](https://github.com/KiwKNR/CTF-Vault)
+
+## Tools I live in
+
+Burp Suite, nmap, Metasploit, Wireshark, Ghidra, sqlmap, ffuf, gobuster, httpx,
+subfinder, katana, gitleaks, trufflehog, BloodHound, gdb (gef/pwndbg). Mostly Kali,
+some Parrot and Arch. Scripting in Python and Bash, bit of C and Go, PowerShell when
+the target's Windows.
+
+## What I test
+
+Web is home turf: SQLi, XSS, SSRF, IDOR, auth bypass, file upload, SSTI, deser. APIs
+too (BOLA/IDOR, broken auth, mass assignment, JWT). On internal work it's the usual
+recon, pivoting, lateral movement, and AD stuff (kerberoasting, pass-the-hash,
+BloodHound). Then privesc and post-ex once I'm in.
+
+<br/>
+
+![stats](https://github-readme-stats.vercel.app/api?username=KiwKNR&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiwKNR&layout=compact&theme=dark&hide_border=true)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KiwKNR/KiwKNR/output/github-snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/KiwKNR/KiwKNR/output/github-snake-dark.svg">
+</picture>
 
 ## Security contact
 
-If you find a security issue in one of my projects, use the repository's private vulnerability reporting option when available. For encrypted details, use my [PGP public key](./pgp.asc).
+Open a private vulnerability report on the relevant repo, or encrypt to my PGP key
+([`pgp.asc`](pgp.asc)):
 
-`3703 5DDA 7B71 F8CC B1DB  5F2B 3B8F 3468 4648 460A`
+```
+3703 5DDA 7B71 F8CC B1DB  5F2B 3B8F 3468 4648 460A
+```
